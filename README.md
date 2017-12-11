@@ -1,2 +1,2 @@
 # Tinyone
-Adaptive panding page on bootstrap
+Adaptive landing page on bootstrap
